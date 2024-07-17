@@ -9,7 +9,7 @@
 - [`unxt`](https://github.com/GalacticDynamics/coordinax/): Unitful Quantities in `JAX`
 
 **Always useful**
-- [`galax`](https://github.com/GalacticDynamics/quaxed/): Pre-[`quaxify`](https://docs.kidger.site/quax/)d libraries for use in multiple dispatch over abstract array types in `JAX`
+- [`quaxed`](https://github.com/GalacticDynamics/quaxed/): Pre-[`quaxify`](https://docs.kidger.site/quax/)d libraries for use in multiple dispatch over abstract array types in `JAX`
 - [`dataclasstools`](https://github.com/GalacticDynamics/dataclasstools/): tools from [`dataclasses`](https://docs.python.org/3/library/dataclasses.html), extended to all of Python
 - [`immutable_map_jax`](https://github.com/GalacticDynamics/immutable_map_jax): Immutable map (dict), compatible with `JAX` & `equinox`
 
