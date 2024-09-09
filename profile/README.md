@@ -12,9 +12,9 @@
 - [`quaxed`](https://github.com/GalacticDynamics/quaxed/): Pre-[`quaxify`](https://docs.kidger.site/quax/)d libraries for use in multiple dispatch over abstract array types in `JAX`
 - [`dataclassish`](https://github.com/GalacticDynamics/dataclassish/): Tools from [`dataclasses`](https://docs.python.org/3/library/dataclasses.html), extended to all of Python
 - [`xmmutablemap`](https://github.com/GalacticDynamics/xmmutablemap): Immutable map (dict), compatible with `JAX`
-- [`optional_dependencies`](https://github.com/GalacticDynamics/optional_dependencies): Construct Checks for Optional Dependencies
-- [`is_annotated`](https://pypi.org/project/is-annotated/): Check if an object is an `Annotated` type.
-- [`zeroth`](https://github.com/GalacticDynamics/zeroth): Efficiently get the index-0 element of an iterable.
+- [`optional_dependencies`](https://github.com/GalacticDynamics/optional_dependencies): Construct checks for optional dependencies
+- [`is_annotated`](https://pypi.org/project/is-annotated/): Check if an object is an `Annotated` type
+- [`zeroth`](https://github.com/GalacticDynamics/zeroth): Efficiently get the index-0 element of an iterable
 
 
 ## Ecosystem
