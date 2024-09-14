@@ -22,7 +22,7 @@
 Let us know if you're building in the `GalacticDynamics` ecosystem!
 
 
-### Other Galactic Dynamics Ecosystem
+### Broader Galactic Dynamics Ecosystem
 
 - [`gala`](https://github.com/adrn/gala/): Galactic and Gravitational Dynamics in Python
 - [`galpy`](https://docs.galpy.org/en/latest/index.html): Python package for galactic dynamics
