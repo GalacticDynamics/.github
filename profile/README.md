@@ -1,4 +1,4 @@
-<h1 align='center'> 💫 GalacticDynamics Org 💫 </h1>
+<h1 align='center'> 🌟 GalacticDynamics Org 🌟 </h1>
 
 ## Repositories
 
