@@ -11,6 +11,7 @@
 **Always useful**
 - [`quaxed`](https://github.com/GalacticDynamics/quaxed/): Pre-[`quaxify`](https://docs.kidger.site/quax/)d libraries for use in multiple dispatch over abstract array types in `JAX`
 - [`dataclassish`](https://github.com/GalacticDynamics/dataclassish/): Tools from [`dataclasses`](https://docs.python.org/3/library/dataclasses.html), extended to all of Python
+- [`diffraxtra`](https://pypi.org/project/diffraxtra/): Extras for [`diffrax`](https://docs.kidger.site/diffrax/)
 - [`xmmutablemap`](https://github.com/GalacticDynamics/xmmutablemap): Immutable map (dict), compatible with `JAX`
 - [`plotting_backends`](https://github.com/GalacticDynamics/plotting_backends): Plotting dispatch backends.
 - [`optional_dependencies`](https://github.com/GalacticDynamics/optional_dependencies): Construct checks for optional dependencies
