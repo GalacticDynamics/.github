@@ -10,6 +10,7 @@
 
 **Always useful**
 - [`quaxed`](https://github.com/GalacticDynamics/quaxed/): Pre-[`quaxify`](https://docs.kidger.site/quax/)d libraries for use in multiple dispatch over abstract array types in `JAX`
+- [`quax-blocks`](https://github.com/GalacticDynamics/quax-blocks): Blocks for constructing `quax` classes
 - [`dataclassish`](https://github.com/GalacticDynamics/dataclassish/): Tools from [`dataclasses`](https://docs.python.org/3/library/dataclasses.html), extended to all of Python
 - [`diffraxtra`](https://pypi.org/project/diffraxtra/): Extras for [`diffrax`](https://docs.kidger.site/diffrax/)
 - [`xmmutablemap`](https://github.com/GalacticDynamics/xmmutablemap): Immutable map (dict), compatible with `JAX`
