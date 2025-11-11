@@ -18,7 +18,7 @@
 - [`optional_dependencies`](https://github.com/GalacticDynamics/optional_dependencies): Construct checks for optional dependencies
 - [`is_annotated`](https://pypi.org/project/is-annotated/): Check if an object is an `Annotated` type
 - [`zeroth`](https://github.com/GalacticDynamics/zeroth): Efficiently get the index-0 element of an iterable
-- [`oncequinox`](https://github.com/GalacticDynamics/zeroth): Create singleton Equinox modules
+- [`oncequinox`](https://github.com/GalacticDynamics/oncequinox): Create singleton Equinox modules
 
 
 ## Ecosystem
