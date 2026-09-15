@@ -21,3 +21,9 @@ jobs:
     steps:
       - uses: actions/checkout@9c091bb21b7c1c1d1991bb908d89e4e9dddfe3e0 # v7.0.0
       - uses: j178/prek-action@4e14d07f9231acabce116ccfca13b13dd9755ece # v3.0.0
+        env:
+          # no-commit-to-branch always fails here: CI checks out the real
+          # `main` branch on every push, which is exactly what the hook
+          # exists to block for a human running `git commit`/`git push`
+          # locally.
+          SKIP: no-commit-to-branch
