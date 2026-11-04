@@ -20,6 +20,7 @@
 - [`zeroth`](https://github.com/GalacticDynamics/zeroth): Efficiently get the index-0 element of an iterable
 - [`oncequinox`](https://github.com/GalacticDynamics/oncequinox): Create singleton Equinox modules
 - [`jaxmore`](https://github.com/GalacticDynamics/jaxmore): Extras for `JAX`
+- [`wadler-lindig-parts`](https://github.com/GalacticDynamics/wadler-lindig-parts): One renderer behind `repr`, `str`, `__format__` and the Jupyter representations, over [`wadler-lindig`](https://docs.kidger.site/wadler_lindig/)
 
 
 ## Ecosystem
